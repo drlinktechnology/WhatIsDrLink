@@ -1,24 +1,24 @@
-# WhatIsDrLink
-Mental health clinics face unique operational challenges: managing sensitive patient data, coordinating appointments, delivering therapy online, and ensuring proper follow-up — all while maintaining privacy and efficiency.
+# Dr.Link - Doctor Link
 
-'''Dr.Link''' is a cloud-based practice management software developed for psychology clinics and mental health organizations. The platform offers tools for patient scheduling, electronic health records, therapy session management, psychological testing, financial accounting, and online consultation services.
+**Dr.Link - Doctor Link** is a SaaS platform that provides a full-featured management solution for psychology clinics and mental health practices.
 
-== Features ==
-Dr.Link provides:
-* Dynamic appointment scheduling
-* Mental health-specific EHR
-* Treatment tracking and reminders
-* Psychological test tools with analytics
-* Support for video, phone, and chat consultations
-* Workshop and group therapy management
-* Financial reports and revenue-sharing
-* Local and international payments
-* Loyalty program for frequent patients
-* Cybersecurity infrastructure
-* Real-time customer support
+## Features
 
-== Use ==
-The software is primarily used by large psychology clinics but is also adopted by individual therapists with high patient volume.
+- Dynamic appointment scheduling
+- Psychology-specific electronic health records (EHR)
+- Digital upload of paper files
+- Treatment follow-up system with reminders
+- Psychological test engine with analytics
+- Online consultation (video, phone, chat)
+- Group therapy & workshop system (certificates included)
+- Financial reports and revenue-sharing system
+- Domestic & international payments with instant settlement
+- VIP client identification and loyalty system
+- Cybersecurity and secure infrastructure
+- Live support and onboarding
 
-== External links ==
-* [https://www.drlink.ir]
+## Purpose
+
+This repository provides API documentation, client SDKs, and a sample integration guide for developers and clinics using DrLink.
+
+> Learn more at [drlink.ir](https://www.drlink.ir)
